@@ -7,3 +7,4 @@ read ans
 
 clear
 echo "You typed $ans"
+sleep 3
